@@ -1,0 +1,14 @@
+{
+  "Group": "mirko0",
+  "Name": "ProfanityFilter",
+  "Version": "1.0.0",
+  "Description": "ProfanityFilter makes it easy to protect your server chat.",
+  "Authors": [
+    {
+      "Name": "mirko0"
+    }
+  ],
+  "Website": "https//mcodelogic.com",
+  "Main": "com.mcodelogic.profanity.KMain",
+  "ServerVersion": "*"
+}
